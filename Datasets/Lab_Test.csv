@@ -1,0 +1,16 @@
+Lab_Test_ID,Test_Name,Min_Value,Max_Value
+1,Blood Test,13.5,17.55
+2,Urine Analysis,1.005,1.03
+3,X-ray,0.1,0.5
+4,CT Scan,1,10
+5,MRI,0.5,5
+6,Ultrasound,0.5,5
+7,Biopsy,0,100
+8,Electrocardiogram,60,100
+9,Thyroid Function Test,0.4,4
+10,Liver Function Test,7,56
+11,Diabetes,70,99
+12,Hypertension,90,120
+13,Covid-19,0,0
+14,HIV Test,20,1000
+15,Pregnancy Test,0,0

@@ -1,0 +1,51 @@
+Disease_ID,Name
+1,COVID-19
+2,Influenza
+3,Common Cold
+4,Malaria
+5,Ebola
+6,Zika Virus
+7,Dengue Fever
+8,Tuberculosis
+9,Cholera
+10,Measles
+11,Chickenpox
+12,Hepatitis
+13,Lyme Disease
+14,SARS
+15,Yellow Fever
+16,Pneumonia
+17,Bronchitis
+18,Diabetes
+19,HIV/AIDS
+20,Alzheimer's Disease
+21,Parkinson's Disease
+22,Cancer
+23,Heart Disease
+24,Stroke
+25,Arthritis
+26,Osteoporosis
+27,Eczema
+28,Psoriasis
+29,Asthma
+30,Allergies
+31,Gout
+32,Ulcer
+33,Kidney Stones
+34,Appendicitis
+35,Gallstones
+36,Hemorrhoids
+37,Cataracts
+38,Glaucoma
+39,Hypertension
+40,Hyperthyroidism
+41,Hypothyroidism
+42,Anemia
+43,Leukemia
+44,Lupus
+45,Multiple Sclerosis
+46,Rheumatoid Arthritis
+47,Schizophrenia
+48,Bipolar Disorder
+49,Depression
+50,Anxiety Disorder

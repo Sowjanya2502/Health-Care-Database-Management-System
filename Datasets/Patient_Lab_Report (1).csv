@@ -1,0 +1,1001 @@
+Patient_Lab_Report_ID,Patient_Register_ID,lab_Test_ID,Test_Value,Comment
+1,854,11,70,Fasting glucose low
+2,666,6,2.536549638,Ultrasound reveals larger anomaly
+3,979,9,1.217626531,Normal thyroid function
+4,350,15,1,Pregnancy test positive
+5,640,3,0.396712731,X-ray exposure normal
+6,226,10,19,ALT low
+7,935,1,16.10134891,Hemoglobin normal
+8,637,14,272,HIV viral load moderate
+9,680,8,63,Heart rate low
+10,589,13,1,Covid-19 test positive
+11,590,5,1.72106388,MRI shows small lesion
+12,183,7,84,Biopsy indicates malignancy
+13,855,4,10,CT scan dose high
+14,254,2,1.029625128,Urine is concentrated
+15,806,12,103,Systolic pressure normal
+16,35,11,78,Fasting glucose low
+17,588,3,0.269073083,X-ray exposure low
+18,40,6,4.783139964,Ultrasound reveals larger anomaly
+19,163,7,58,Biopsy result inconclusive
+20,957,10,12,ALT low
+21,596,4,9,CT scan dose high
+22,579,14,733,HIV viral load high
+23,503,9,3.008059176,Possible hypothyroidism
+24,850,2,1.005668768,Urine is dilute
+25,382,12,114,Systolic pressure high
+26,224,13,1,Covid-19 test positive
+27,402,15,0,Pregnancy test negative
+28,842,5,4.095229837,MRI shows larger lesion
+29,558,8,78,Heart rate normal
+30,268,1,17.25493255,Hemoglobin slightly high
+31,7,8,63,Heart rate low
+32,312,15,1,Pregnancy test positive
+33,689,1,14.8523827,Hemoglobin slightly low
+34,453,6,3.140002262,Ultrasound reveals larger anomaly
+35,88,2,1.027708377,Urine is concentrated
+36,94,5,2.748789785,MRI shows larger lesion
+37,872,4,9,CT scan dose high
+38,677,9,2.735576839,Normal thyroid function
+39,693,11,88,Fasting glucose normal
+40,565,3,0.305274946,X-ray exposure normal
+41,460,14,864,HIV viral load high
+42,788,10,11,ALT low
+43,90,12,93,Systolic pressure low
+44,356,8,72,Heart rate normal
+45,450,13,0,Covid-19 test negative
+46,741,7,89,Biopsy indicates malignancy
+47,785,7,79,Biopsy indicates malignancy
+48,435,5,4.226981885,MRI shows larger lesion
+49,935,12,116,Systolic pressure high
+50,118,10,16,ALT low
+51,654,3,0.409028779,X-ray exposure normal
+52,440,14,388,HIV viral load moderate
+53,593,2,1.015429712,Urine is normal
+54,414,9,2.744135287,Normal thyroid function
+55,386,8,95,Heart rate high
+56,818,11,95,Fasting glucose high
+57,156,15,1,Pregnancy test positive
+58,877,1,13.91970996,Hemoglobin slightly low
+59,374,6,2.814937155,Ultrasound reveals larger anomaly
+60,8,13,0,Covid-19 test negative
+61,573,4,1,CT scan dose low
+62,765,12,107,Systolic pressure normal
+63,428,5,4.101856103,MRI shows larger lesion
+64,758,15,1,Pregnancy test positive
+65,320,11,74,Fasting glucose low
+66,48,10,20,ALT normal
+67,416,8,97,Heart rate high
+68,306,7,66,Biopsy indicates malignancy
+69,270,12,117,Systolic pressure high
+70,825,3,0.323015973,X-ray exposure normal
+71,653,2,1.016653838,Urine is normal
+72,748,13,1,Covid-19 test positive
+73,974,6,3.674177781,Ultrasound reveals larger anomaly
+74,700,4,2,CT scan dose low
+75,515,9,0.45449392,Possible hyperthyroidism
+76,996,14,391,HIV viral load moderate
+77,97,1,13.89430296,Hemoglobin slightly low
+78,173,11,96,Fasting glucose high
+79,287,3,0.407583122,X-ray exposure normal
+80,755,12,94,Systolic pressure low
+81,751,1,14.6991057,Hemoglobin slightly low
+82,291,9,1.900918436,Normal thyroid function
+83,226,6,2.200804443,Ultrasound reveals small anomaly
+84,894,4,9,CT scan dose high
+85,168,14,858,HIV viral load high
+86,828,15,1,Pregnancy test positive
+87,643,13,1,Covid-19 test positive
+88,136,2,1.007819898,Urine is dilute
+89,397,5,1.629261385,MRI shows small lesion
+90,468,8,93,Heart rate high
+91,782,7,100,Biopsy indicates malignancy
+92,414,10,11,ALT low
+93,975,4,1,CT scan dose low
+94,323,14,839,HIV viral load high
+95,108,7,63,Biopsy result inconclusive
+96,373,12,114,Systolic pressure high
+97,549,8,95,Heart rate high
+98,845,4,10,CT scan dose high
+99,96,1,16.76872852,Hemoglobin slightly high
+100,898,6,4.163865824,Ultrasound reveals larger anomaly
+101,793,5,2.252353775,MRI shows small lesion
+102,123,13,1,Covid-19 test positive
+103,724,11,99,Fasting glucose high
+104,678,15,0,Pregnancy test negative
+105,471,2,1.01588185,Urine is normal
+106,376,3,0.341387617,X-ray exposure normal
+107,435,10,50,ALT high
+108,615,9,0.883263126,Possible hyperthyroidism
+109,596,14,621,HIV viral load high
+110,518,4,8,CT scan dose high
+111,557,13,0,Covid-19 test negative
+112,396,5,1.608210875,MRI shows small lesion
+113,492,12,114,Systolic pressure high
+114,558,10,18,ALT low
+115,646,9,1.017703864,Normal thyroid function
+116,480,3,0.211304645,X-ray exposure low
+117,214,11,70,Fasting glucose low
+118,325,2,1.009182059,Urine is dilute
+119,962,15,0,Pregnancy test negative
+120,619,1,15.3113731,Hemoglobin normal
+121,466,6,3.983640631,Ultrasound reveals larger anomaly
+122,421,8,65,Heart rate low
+123,784,7,5,Biopsy suggests benign tissue
+124,937,12,109,Systolic pressure normal
+125,957,4,8,CT scan dose high
+126,15,1,15.26672132,Hemoglobin normal
+127,975,8,77,Heart rate normal
+128,18,15,0,Pregnancy test negative
+129,700,9,1.751105989,Normal thyroid function
+130,555,2,1.025486441,Urine is concentrated
+131,861,10,54,ALT high
+132,673,12,105,Systolic pressure normal
+133,730,13,0,Covid-19 test negative
+134,235,6,1.618614203,Ultrasound reveals small anomaly
+135,543,11,75,Fasting glucose low
+136,61,14,751,HIV viral load high
+137,493,7,89,Biopsy indicates malignancy
+138,876,5,3.647214182,MRI shows larger lesion
+139,602,3,0.198178119,X-ray exposure low
+140,114,3,0.223508788,X-ray exposure low
+141,93,13,0,Covid-19 test negative
+142,736,1,14.81958367,Hemoglobin slightly low
+143,733,2,1.026879172,Urine is concentrated
+144,816,11,75,Fasting glucose low
+145,922,7,28,Biopsy suggests benign tissue
+146,647,6,1.581369119,Ultrasound reveals small anomaly
+147,868,12,101,Systolic pressure normal
+148,282,8,64,Heart rate low
+149,20,5,2.427824511,MRI shows small lesion
+150,479,9,2.122066312,Normal thyroid function
+151,47,10,25,ALT normal
+152,765,14,565,HIV viral load high
+153,304,15,0,Pregnancy test negative
+154,691,4,9,CT scan dose high
+155,361,9,2.827602639,Normal thyroid function
+156,821,15,0,Pregnancy test negative
+157,22,12,106,Systolic pressure normal
+158,228,14,410,HIV viral load moderate
+159,633,9,2.657971596,Normal thyroid function
+160,66,10,34,ALT normal
+161,142,5,2.934737303,MRI shows larger lesion
+162,209,6,2.901693322,Ultrasound reveals larger anomaly
+163,640,2,1.018538185,Urine is normal
+164,884,7,42,Biopsy result inconclusive
+165,494,13,1,Covid-19 test positive
+166,400,8,75,Heart rate normal
+167,669,1,17.02980913,Hemoglobin slightly high
+168,505,4,1,CT scan dose low
+169,217,11,78,Fasting glucose low
+170,308,3,0.455253393,X-ray exposure normal
+171,577,13,1,Covid-19 test positive
+172,541,6,2.286270009,Ultrasound reveals small anomaly
+173,407,12,102,Systolic pressure normal
+174,41,4,1,CT scan dose low
+175,60,1,15.56023596,Hemoglobin normal
+176,987,5,2.820862828,MRI shows larger lesion
+177,233,10,44,ALT high
+178,324,9,1.452025279,Normal thyroid function
+179,458,8,61,Heart rate low
+180,636,7,64,Biopsy result inconclusive
+181,607,2,1.006685605,Urine is dilute
+182,764,14,103,HIV viral load moderate
+183,924,15,0,Pregnancy test negative
+184,934,3,0.114421117,X-ray exposure low
+185,653,11,92,Fasting glucose high
+186,895,11,95,Fasting glucose high
+187,952,10,31,ALT normal
+188,60,9,0.924923133,Possible hyperthyroidism
+189,203,1,15.75065752,Hemoglobin normal
+190,3,2,1.029629726,Urine is concentrated
+191,171,7,97,Biopsy indicates malignancy
+192,508,12,119,Systolic pressure high
+193,125,13,1,Covid-19 test positive
+194,109,15,1,Pregnancy test positive
+195,100,5,4.63583836,MRI shows larger lesion
+196,825,3,0.16649767,X-ray exposure low
+197,691,6,1.943821281,Ultrasound reveals small anomaly
+198,768,4,8,CT scan dose high
+199,778,14,418,HIV viral load moderate
+200,454,11,85,Fasting glucose normal
+201,582,8,78,Heart rate normal
+202,514,15,0,Pregnancy test negative
+203,135,5,3.796466394,MRI shows larger lesion
+204,350,2,1.026459131,Urine is concentrated
+205,803,14,458,HIV viral load moderate
+206,499,8,96,Heart rate high
+207,108,7,52,Biopsy result inconclusive
+208,404,12,120,Systolic pressure high
+209,967,3,0.151945493,X-ray exposure low
+210,458,9,3.35005797,Possible hypothyroidism
+211,551,13,0,Covid-19 test negative
+212,511,4,5,CT scan dose high
+213,984,11,93,Fasting glucose high
+214,106,6,2.556271149,Ultrasound reveals larger anomaly
+215,532,1,14.46206814,Hemoglobin slightly low
+216,565,10,44,ALT high
+217,178,4,2,CT scan dose low
+218,669,3,0.387951502,X-ray exposure normal
+219,524,10,20,ALT normal
+220,128,5,1.765088049,MRI shows small lesion
+221,990,14,397,HIV viral load moderate
+222,396,12,118,Systolic pressure high
+223,784,11,81,Fasting glucose normal
+224,664,1,15.6132796,Hemoglobin normal
+225,584,9,1.867287997,Normal thyroid function
+226,836,13,0,Covid-19 test negative
+227,965,2,1.010170573,Urine is dilute
+228,373,4,8,CT scan dose high
+229,430,6,2.226723823,Ultrasound reveals small anomaly
+230,30,8,72,Heart rate normal
+231,739,7,4,Biopsy suggests benign tissue
+232,986,15,0,Pregnancy test negative
+233,174,6,2.429828368,Ultrasound reveals small anomaly
+234,552,12,116,Systolic pressure high
+235,483,11,92,Fasting glucose high
+236,103,14,782,HIV viral load high
+237,43,1,15.31467816,Hemoglobin normal
+238,622,5,3.57990276,MRI shows larger lesion
+239,688,9,1.749539271,Normal thyroid function
+240,189,4,5,CT scan dose high
+241,418,2,1.027743567,Urine is concentrated
+242,928,7,8,Biopsy suggests benign tissue
+243,324,3,0.310653967,X-ray exposure normal
+244,690,10,10,ALT low
+245,29,8,66,Heart rate low
+246,909,15,1,Pregnancy test positive
+247,92,13,1,Covid-19 test positive
+248,279,12,96,Systolic pressure low
+249,497,10,56,ALT high
+250,276,9,1.210174881,Normal thyroid function
+251,426,13,0,Covid-19 test negative
+252,660,5,1.804615087,MRI shows small lesion
+253,104,8,73,Heart rate normal
+254,620,15,0,Pregnancy test negative
+255,110,14,268,HIV viral load moderate
+256,817,6,3.336383453,Ultrasound reveals larger anomaly
+257,902,7,62,Biopsy result inconclusive
+258,624,3,0.310918268,X-ray exposure normal
+259,545,1,14.8932111,Hemoglobin slightly low
+260,107,4,1,CT scan dose low
+261,134,11,95,Fasting glucose high
+262,430,12,106,Systolic pressure normal
+263,801,2,1.023467575,Urine is concentrated
+264,723,5,2.772997463,MRI shows larger lesion
+265,771,2,1.009976216,Urine is dilute
+266,962,7,56,Biopsy result inconclusive
+267,317,9,1.852616811,Normal thyroid function
+268,53,4,9,CT scan dose high
+269,384,14,352,HIV viral load moderate
+270,719,6,2.438619003,Ultrasound reveals small anomaly
+271,389,13,1,Covid-19 test positive
+272,972,8,98,Heart rate high
+273,500,12,93,Systolic pressure low
+274,795,1,15.06703266,Hemoglobin normal
+275,6,10,18,ALT low
+276,654,11,76,Fasting glucose low
+277,843,15,1,Pregnancy test positive
+278,838,3,0.293869085,X-ray exposure low
+279,802,15,0,Pregnancy test negative
+280,708,9,2.067274673,Normal thyroid function
+281,516,14,262,HIV viral load moderate
+282,627,8,86,Heart rate normal
+283,174,10,48,ALT high
+284,869,7,14,Biopsy suggests benign tissue
+285,551,2,1.009341807,Urine is dilute
+286,497,3,0.442094677,X-ray exposure normal
+287,206,6,0.825215104,Ultrasound reveals small anomaly
+288,960,5,4.738348726,MRI shows larger lesion
+289,937,4,9,CT scan dose high
+290,184,15,1,Pregnancy test positive
+291,535,11,89,Fasting glucose normal
+292,41,1,13.63359351,Hemoglobin slightly low
+293,575,13,0,Covid-19 test negative
+294,13,12,93,Systolic pressure low
+295,326,1,14.4807966,Hemoglobin slightly low
+296,785,9,1.023723488,Normal thyroid function
+297,796,7,82,Biopsy indicates malignancy
+298,72,8,75,Heart rate normal
+299,213,15,1,Pregnancy test positive
+300,890,3,0.463749745,X-ray exposure normal
+301,998,11,96,Fasting glucose high
+302,102,13,0,Covid-19 test negative
+303,987,6,1.52138859,Ultrasound reveals small anomaly
+304,705,2,1.008428683,Urine is dilute
+305,378,4,1,CT scan dose low
+306,678,12,108,Systolic pressure normal
+307,186,14,521,HIV viral load high
+308,510,10,7,ALT low
+309,66,5,2.057007914,MRI shows small lesion
+310,421,2,1.007762103,Urine is dilute
+311,540,7,36,Biopsy result inconclusive
+312,310,8,70,Heart rate normal
+313,684,5,2.723022911,MRI shows larger lesion
+314,575,15,0,Pregnancy test negative
+315,716,14,40,HIV viral load undetectable
+316,391,13,1,Covid-19 test positive
+317,979,9,2.140819063,Normal thyroid function
+318,758,12,111,Systolic pressure high
+319,61,11,86,Fasting glucose normal
+320,294,4,3,CT scan dose low
+321,766,1,15.64942109,Hemoglobin normal
+322,172,6,2.875877833,Ultrasound reveals larger anomaly
+323,992,2,1.015693663,Urine is normal
+324,799,10,11,ALT low
+325,463,3,0.179824367,X-ray exposure low
+326,14,10,18,ALT low
+327,392,13,1,Covid-19 test positive
+328,661,12,119,Systolic pressure high
+329,795,9,3.652581167,Possible hypothyroidism
+330,495,3,0.496130563,X-ray exposure normal
+331,453,6,3.814304397,Ultrasound reveals larger anomaly
+332,510,11,85,Fasting glucose normal
+333,532,5,4.361352185,MRI shows larger lesion
+334,104,14,600,HIV viral load high
+335,757,7,45,Biopsy result inconclusive
+336,12,4,4,CT scan dose low
+337,413,1,17.22936763,Hemoglobin slightly high
+338,13,2,1.005734487,Urine is dilute
+339,689,8,61,Heart rate low
+340,195,15,0,Pregnancy test negative
+341,70,1,16.51773613,Hemoglobin slightly high
+342,919,14,110,HIV viral load moderate
+343,869,8,83,Heart rate normal
+344,715,13,1,Covid-19 test positive
+345,391,15,1,Pregnancy test positive
+346,659,4,5,CT scan dose high
+347,247,1,14.93092971,Hemoglobin slightly low
+348,716,3,0.234358571,X-ray exposure low
+349,744,9,1.185187031,Normal thyroid function
+350,821,6,2.405230374,Ultrasound reveals small anomaly
+351,300,7,13,Biopsy suggests benign tissue
+352,25,5,0.973929278,MRI shows small lesion
+353,858,12,91,Systolic pressure low
+354,975,11,84,Fasting glucose normal
+355,468,2,1.022553528,Urine is concentrated
+356,646,10,8,ALT low
+357,660,8,68,Heart rate low
+358,913,14,175,HIV viral load moderate
+359,156,15,0,Pregnancy test negative
+360,979,3,0.182086848,X-ray exposure low
+361,30,11,71,Fasting glucose low
+362,246,7,68,Biopsy indicates malignancy
+363,920,13,1,Covid-19 test positive
+364,576,5,1.627776406,MRI shows small lesion
+365,484,2,1.028572852,Urine is concentrated
+366,44,12,113,Systolic pressure high
+367,489,4,7,CT scan dose high
+368,203,6,4.222756249,Ultrasound reveals larger anomaly
+369,366,10,13,ALT low
+370,152,9,1.206736386,Normal thyroid function
+371,683,1,17.08935693,Hemoglobin slightly high
+372,126,9,3.352112716,Possible hypothyroidism
+373,591,6,4.665556601,Ultrasound reveals larger anomaly
+374,507,7,29,Biopsy suggests benign tissue
+375,872,13,0,Covid-19 test negative
+376,765,12,97,Systolic pressure low
+377,256,8,77,Heart rate normal
+378,324,5,4.841639139,MRI shows larger lesion
+379,189,14,344,HIV viral load moderate
+380,361,10,10,ALT low
+381,322,3,0.362979042,X-ray exposure normal
+382,333,2,1.010023935,Urine is dilute
+383,188,9,1.085204018,Normal thyroid function
+384,159,1,16.17316396,Hemoglobin normal
+385,553,15,1,Pregnancy test positive
+386,826,11,81,Fasting glucose normal
+387,383,4,10,CT scan dose high
+388,528,10,14,ALT low
+389,198,15,0,Pregnancy test negative
+390,894,5,1.466177832,MRI shows small lesion
+391,920,9,1.48987904,Normal thyroid function
+392,556,4,8,CT scan dose high
+393,327,2,1.023633994,Urine is concentrated
+394,56,13,0,Covid-19 test negative
+395,820,14,520,HIV viral load high
+396,680,12,100,Systolic pressure normal
+397,68,3,0.17357258,X-ray exposure low
+398,571,11,83,Fasting glucose normal
+399,98,7,27,Biopsy suggests benign tissue
+400,697,6,1.060170053,Ultrasound reveals small anomaly
+401,537,8,90,Heart rate normal
+402,605,1,14.0260703,Hemoglobin slightly low
+403,594,8,61,Heart rate low
+404,608,2,1.028147557,Urine is concentrated
+405,220,4,6,CT scan dose high
+406,22,12,101,Systolic pressure normal
+407,456,1,16.98892244,Hemoglobin slightly high
+408,747,3,0.126313819,X-ray exposure low
+409,203,7,53,Biopsy result inconclusive
+410,642,10,36,ALT normal
+411,348,14,681,HIV viral load high
+412,835,5,4.3139128,MRI shows larger lesion
+413,104,9,0.880454639,Possible hyperthyroidism
+414,320,13,0,Covid-19 test negative
+415,420,8,69,Heart rate low
+416,131,6,1.179804749,Ultrasound reveals small anomaly
+417,706,15,1,Pregnancy test positive
+418,846,11,72,Fasting glucose low
+419,888,7,85,Biopsy indicates malignancy
+420,777,15,0,Pregnancy test negative
+421,632,10,34,ALT normal
+422,122,3,0.231329672,X-ray exposure low
+423,565,11,93,Fasting glucose high
+424,410,4,10,CT scan dose high
+425,346,5,2.569975392,MRI shows larger lesion
+426,676,14,33,HIV viral load undetectable
+427,999,9,0.46062432,Possible hyperthyroidism
+428,831,8,76,Heart rate normal
+429,849,1,15.73479966,Hemoglobin normal
+430,708,6,0.676192833,Ultrasound reveals small anomaly
+431,31,12,108,Systolic pressure normal
+432,226,2,1.026732264,Urine is concentrated
+433,60,13,0,Covid-19 test negative
+434,265,12,101,Systolic pressure normal
+435,41,6,1.208274934,Ultrasound reveals small anomaly
+436,240,1,14.48785845,Hemoglobin slightly low
+437,581,4,5,CT scan dose high
+438,588,10,29,ALT normal
+439,93,12,115,Systolic pressure high
+440,69,5,4.120865579,MRI shows larger lesion
+441,636,9,0.707858731,Possible hyperthyroidism
+442,535,2,1.010877072,Urine is dilute
+443,724,11,93,Fasting glucose high
+444,733,3,0.258204347,X-ray exposure low
+445,641,7,1,Biopsy suggests benign tissue
+446,978,14,157,HIV viral load moderate
+447,745,13,1,Covid-19 test positive
+448,893,15,1,Pregnancy test positive
+449,243,8,97,Heart rate high
+450,66,15,1,Pregnancy test positive
+451,405,2,1.015037559,Urine is normal
+452,866,12,106,Systolic pressure normal
+453,213,5,1.141811821,MRI shows small lesion
+454,201,3,0.382032861,X-ray exposure normal
+455,609,11,71,Fasting glucose low
+456,851,8,92,Heart rate high
+457,568,1,13.56460295,Hemoglobin slightly low
+458,137,6,3.756686343,Ultrasound reveals larger anomaly
+459,378,9,2.176751635,Normal thyroid function
+460,972,4,9,CT scan dose high
+461,517,14,125,HIV viral load moderate
+462,229,7,42,Biopsy result inconclusive
+463,696,10,47,ALT high
+464,883,13,1,Covid-19 test positive
+465,270,3,0.265908589,X-ray exposure low
+466,185,14,794,HIV viral load high
+467,219,7,33,Biopsy result inconclusive
+468,102,13,1,Covid-19 test positive
+469,587,12,115,Systolic pressure high
+470,920,6,1.650670396,Ultrasound reveals small anomaly
+471,914,11,85,Fasting glucose normal
+472,746,4,8,CT scan dose high
+473,198,2,1.005331125,Urine is dilute
+474,794,15,1,Pregnancy test positive
+475,806,10,52,ALT high
+476,116,1,14.78314162,Hemoglobin slightly low
+477,462,9,0.974516407,Possible hyperthyroidism
+478,962,5,1.157205828,MRI shows small lesion
+479,826,3,0.356093865,X-ray exposure normal
+480,416,8,64,Heart rate low
+481,424,3,0.435629717,X-ray exposure normal
+482,959,14,335,HIV viral load moderate
+483,589,15,0,Pregnancy test negative
+484,90,5,0.790634105,MRI shows small lesion
+485,585,8,72,Heart rate normal
+486,780,12,112,Systolic pressure high
+487,305,6,4.98975645,Ultrasound reveals larger anomaly
+488,870,13,1,Covid-19 test positive
+489,880,11,97,Fasting glucose high
+490,932,9,1.207580653,Normal thyroid function
+491,580,4,6,CT scan dose high
+492,855,2,1.021577426,Urine is concentrated
+493,801,10,40,ALT normal
+494,878,7,65,Biopsy result inconclusive
+495,732,1,16.16671807,Hemoglobin normal
+496,658,7,20,Biopsy suggests benign tissue
+497,383,13,0,Covid-19 test negative
+498,547,10,41,ALT high
+499,510,9,2.858186909,Normal thyroid function
+500,342,5,2.930771625,MRI shows larger lesion
+501,339,3,0.492049871,X-ray exposure normal
+502,626,12,96,Systolic pressure low
+503,589,8,60,Heart rate low
+504,922,14,665,HIV viral load high
+505,843,2,1.009940776,Urine is dilute
+506,10,1,16.81834537,Hemoglobin slightly high
+507,142,7,9,Biopsy suggests benign tissue
+508,430,4,5,CT scan dose high
+509,873,6,1.310059137,Ultrasound reveals small anomaly
+510,500,15,0,Pregnancy test negative
+511,119,11,91,Fasting glucose high
+512,176,4,4,CT scan dose low
+513,111,2,1.029421045,Urine is concentrated
+514,281,1,15.12144057,Hemoglobin normal
+515,802,5,4.219524905,MRI shows larger lesion
+516,778,9,2.848182227,Normal thyroid function
+517,694,12,111,Systolic pressure high
+518,788,3,0.190362314,X-ray exposure low
+519,308,6,1.64261453,Ultrasound reveals small anomaly
+520,101,7,58,Biopsy result inconclusive
+521,419,11,82,Fasting glucose normal
+522,246,13,1,Covid-19 test positive
+523,880,8,74,Heart rate normal
+524,602,10,52,ALT high
+525,527,15,0,Pregnancy test negative
+526,686,14,50,HIV viral load moderate
+527,376,5,4.188532094,MRI shows larger lesion
+528,233,2,1.013530008,Urine is dilute
+529,230,8,65,Heart rate low
+530,866,15,0,Pregnancy test negative
+531,26,11,74,Fasting glucose low
+532,931,4,10,CT scan dose high
+533,369,1,17.24068793,Hemoglobin slightly high
+534,915,5,1.190328607,MRI shows small lesion
+535,623,13,0,Covid-19 test negative
+536,971,7,62,Biopsy result inconclusive
+537,524,10,45,ALT high
+538,799,12,99,Systolic pressure low
+539,350,3,0.189361873,X-ray exposure low
+540,556,9,2.851855767,Normal thyroid function
+541,756,14,357,HIV viral load moderate
+542,24,6,2.2837186,Ultrasound reveals small anomaly
+543,43,10,43,ALT high
+544,608,3,0.25420101,X-ray exposure low
+545,828,14,686,HIV viral load high
+546,812,15,0,Pregnancy test negative
+547,606,1,16.97856877,Hemoglobin slightly high
+548,621,6,3.714305243,Ultrasound reveals larger anomaly
+549,888,4,3,CT scan dose low
+550,796,11,94,Fasting glucose high
+551,596,8,74,Heart rate normal
+552,378,7,55,Biopsy result inconclusive
+553,14,2,1.016545083,Urine is normal
+554,97,13,0,Covid-19 test negative
+555,402,12,100,Systolic pressure normal
+556,816,5,3.250173718,MRI shows larger lesion
+557,780,9,3.602966077,Possible hypothyroidism
+558,224,7,58,Biopsy result inconclusive
+559,548,1,16.21834668,Hemoglobin normal
+560,115,8,90,Heart rate normal
+561,727,3,0.213498027,X-ray exposure low
+562,606,11,71,Fasting glucose low
+563,201,12,113,Systolic pressure high
+564,658,14,295,HIV viral load moderate
+565,331,15,1,Pregnancy test positive
+566,312,6,2.500884518,Ultrasound reveals larger anomaly
+567,266,9,3.685120471,Possible hypothyroidism
+568,580,2,1.00915278,Urine is dilute
+569,219,7,61,Biopsy result inconclusive
+570,817,10,53,ALT high
+571,565,13,0,Covid-19 test negative
+572,972,4,1,CT scan dose low
+573,9,5,3.893461125,MRI shows larger lesion
+574,766,6,3.710489528,Ultrasound reveals larger anomaly
+575,155,12,102,Systolic pressure normal
+576,849,1,16.17774472,Hemoglobin normal
+577,501,3,0.298004488,X-ray exposure low
+578,646,15,0,Pregnancy test negative
+579,366,7,88,Biopsy indicates malignancy
+580,678,9,2.403284018,Normal thyroid function
+581,242,14,958,HIV viral load high
+582,321,2,1.020854552,Urine is concentrated
+583,962,10,52,ALT high
+584,910,8,83,Heart rate normal
+585,783,5,4.675337253,MRI shows larger lesion
+586,412,4,2,CT scan dose low
+587,291,11,88,Fasting glucose normal
+588,539,13,1,Covid-19 test positive
+589,303,2,1.027081653,Urine is concentrated
+590,447,6,2.704558518,Ultrasound reveals larger anomaly
+591,812,1,14.69676619,Hemoglobin slightly low
+592,759,13,0,Covid-19 test negative
+593,841,15,0,Pregnancy test negative
+594,60,3,0.223114318,X-ray exposure low
+595,224,14,343,HIV viral load moderate
+596,261,4,1,CT scan dose low
+597,838,5,3.054251045,MRI shows larger lesion
+598,575,12,90,Systolic pressure low
+599,543,9,2.830980343,Normal thyroid function
+600,847,10,16,ALT low
+601,171,2,1.013613074,Urine is dilute
+602,97,7,100,Biopsy indicates malignancy
+603,35,11,89,Fasting glucose normal
+604,54,8,88,Heart rate normal
+605,111,1,14.8194898,Hemoglobin slightly low
+606,125,14,84,HIV viral load moderate
+607,306,2,1.022672139,Urine is concentrated
+608,580,12,120,Systolic pressure high
+609,226,10,48,ALT high
+610,65,7,11,Biopsy suggests benign tissue
+611,723,6,3.386289846,Ultrasound reveals larger anomaly
+612,50,4,4,CT scan dose low
+613,709,9,3.432424393,Possible hypothyroidism
+614,456,15,1,Pregnancy test positive
+615,405,13,0,Covid-19 test negative
+616,80,11,98,Fasting glucose high
+617,242,3,0.451154964,X-ray exposure normal
+618,928,8,100,Heart rate high
+619,371,5,2.976158753,MRI shows larger lesion
+620,730,9,1.751562123,Normal thyroid function
+621,50,7,63,Biopsy result inconclusive
+622,603,11,84,Fasting glucose normal
+623,135,10,51,ALT high
+624,250,15,0,Pregnancy test negative
+625,445,12,117,Systolic pressure high
+626,260,14,595,HIV viral load high
+627,663,2,1.008112402,Urine is dilute
+628,186,9,3.115513392,Possible hypothyroidism
+629,218,13,0,Covid-19 test negative
+630,7,1,15.96189037,Hemoglobin normal
+631,527,8,97,Heart rate high
+632,524,3,0.319890443,X-ray exposure normal
+633,906,5,3.971620679,MRI shows larger lesion
+634,870,6,1.416031008,Ultrasound reveals small anomaly
+635,262,4,3,CT scan dose low
+636,199,11,94,Fasting glucose high
+637,432,14,166,HIV viral load moderate
+638,449,13,1,Covid-19 test positive
+639,839,15,0,Pregnancy test negative
+640,968,9,0.431228883,Possible hyperthyroidism
+641,409,12,93,Systolic pressure low
+642,622,5,1.134731054,MRI shows small lesion
+643,568,7,81,Biopsy indicates malignancy
+644,750,6,1.652332028,Ultrasound reveals small anomaly
+645,455,8,65,Heart rate low
+646,812,1,13.80003919,Hemoglobin slightly low
+647,518,4,8,CT scan dose high
+648,179,3,0.270557234,X-ray exposure low
+649,378,2,1.023549414,Urine is concentrated
+650,308,10,26,ALT normal
+651,164,8,79,Heart rate normal
+652,582,2,1.013716786,Urine is dilute
+653,246,1,16.83710201,Hemoglobin slightly high
+654,327,8,61,Heart rate low
+655,534,5,2.216230619,MRI shows small lesion
+656,69,11,73,Fasting glucose low
+657,945,3,0.267838067,X-ray exposure low
+658,853,10,45,ALT high
+659,497,12,91,Systolic pressure low
+660,939,9,3.650339803,Possible hypothyroidism
+661,442,6,3.247723197,Ultrasound reveals larger anomaly
+662,457,7,79,Biopsy indicates malignancy
+663,887,13,0,Covid-19 test negative
+664,616,15,1,Pregnancy test positive
+665,133,14,841,HIV viral load high
+666,755,4,5,CT scan dose high
+667,925,5,2.408727775,MRI shows small lesion
+668,963,15,1,Pregnancy test positive
+669,349,6,4.542956208,Ultrasound reveals larger anomaly
+670,987,3,0.246957685,X-ray exposure low
+671,555,4,5,CT scan dose high
+672,915,13,1,Covid-19 test positive
+673,493,1,15.54940635,Hemoglobin normal
+674,546,8,97,Heart rate high
+675,387,10,26,ALT normal
+676,921,12,115,Systolic pressure high
+677,657,9,1.695901876,Normal thyroid function
+678,325,14,697,HIV viral load high
+679,894,7,69,Biopsy indicates malignancy
+680,658,11,98,Fasting glucose high
+681,893,2,1.02495311,Urine is concentrated
+682,12,13,0,Covid-19 test negative
+683,362,10,24,ALT normal
+684,852,5,2.384530583,MRI shows small lesion
+685,704,8,93,Heart rate high
+686,619,11,71,Fasting glucose low
+687,342,14,227,HIV viral load moderate
+688,957,3,0.150677221,X-ray exposure low
+689,914,4,1,CT scan dose low
+690,44,12,104,Systolic pressure normal
+691,919,13,1,Covid-19 test positive
+692,201,6,3.999557856,Ultrasound reveals larger anomaly
+693,664,9,3.954859206,Possible hypothyroidism
+694,547,7,35,Biopsy result inconclusive
+695,245,15,0,Pregnancy test negative
+696,805,1,13.97307376,Hemoglobin slightly low
+697,592,2,1.006797947,Urine is dilute
+698,992,1,13.58517282,Hemoglobin slightly low
+699,590,5,4.832078762,MRI shows larger lesion
+700,916,11,80,Fasting glucose normal
+701,476,13,0,Covid-19 test negative
+702,77,10,39,ALT normal
+703,324,14,853,HIV viral load high
+704,173,9,2.309446742,Normal thyroid function
+705,273,4,10,CT scan dose high
+706,713,15,1,Pregnancy test positive
+707,861,2,1.010271876,Urine is dilute
+708,833,12,108,Systolic pressure normal
+709,358,7,43,Biopsy result inconclusive
+710,68,6,3.555169667,Ultrasound reveals larger anomaly
+711,977,3,0.172221793,X-ray exposure low
+712,564,8,89,Heart rate normal
+713,369,4,4,CT scan dose low
+714,462,7,18,Biopsy suggests benign tissue
+715,211,1,14.42907227,Hemoglobin slightly low
+716,161,10,7,ALT low
+717,885,3,0.230941967,X-ray exposure low
+718,540,12,110,Systolic pressure normal
+719,512,11,71,Fasting glucose low
+720,159,14,127,HIV viral load moderate
+721,391,13,1,Covid-19 test positive
+722,691,6,2.711741356,Ultrasound reveals larger anomaly
+723,930,4,10,CT scan dose high
+724,369,9,3.853403406,Possible hypothyroidism
+725,65,8,65,Heart rate low
+726,879,15,1,Pregnancy test positive
+727,781,2,1.009081791,Urine is dilute
+728,578,5,3.313669434,MRI shows larger lesion
+729,203,13,0,Covid-19 test negative
+730,443,14,21,HIV viral load undetectable
+731,520,1,14.21070964,Hemoglobin slightly low
+732,784,15,1,Pregnancy test positive
+733,192,2,1.006200347,Urine is dilute
+734,122,11,92,Fasting glucose high
+735,390,10,49,ALT high
+736,715,9,2.290964203,Normal thyroid function
+737,893,4,1,CT scan dose low
+738,734,6,2.784895976,Ultrasound reveals larger anomaly
+739,634,8,97,Heart rate high
+740,456,3,0.381606003,X-ray exposure normal
+741,641,5,2.673250971,MRI shows larger lesion
+742,409,12,113,Systolic pressure high
+743,148,7,14,Biopsy suggests benign tissue
+744,896,6,2.464627859,Ultrasound reveals small anomaly
+745,55,4,8,CT scan dose high
+746,531,14,993,HIV viral load high
+747,298,7,97,Biopsy indicates malignancy
+748,101,15,0,Pregnancy test negative
+749,244,12,92,Systolic pressure low
+750,250,5,3.022272888,MRI shows larger lesion
+751,86,13,1,Covid-19 test positive
+752,197,11,94,Fasting glucose high
+753,918,10,42,ALT high
+754,668,6,1.855112795,Ultrasound reveals small anomaly
+755,238,1,16.01523367,Hemoglobin normal
+756,719,2,1.025067245,Urine is concentrated
+757,135,3,0.382068615,X-ray exposure normal
+758,796,8,65,Heart rate low
+759,463,9,3.991691829,Possible hypothyroidism
+760,567,12,114,Systolic pressure high
+761,146,1,14.19739055,Hemoglobin slightly low
+762,19,7,92,Biopsy indicates malignancy
+763,573,9,1.054496533,Normal thyroid function
+764,637,8,62,Heart rate low
+765,894,4,3,CT scan dose low
+766,654,13,1,Covid-19 test positive
+767,277,3,0.454578489,X-ray exposure normal
+768,561,6,4.020411548,Ultrasound reveals larger anomaly
+769,415,10,14,ALT low
+770,195,2,1.022088507,Urine is concentrated
+771,41,5,1.73784814,MRI shows small lesion
+772,107,15,1,Pregnancy test positive
+773,222,14,104,HIV viral load moderate
+774,291,11,73,Fasting glucose low
+775,149,6,2.705046779,Ultrasound reveals larger anomaly
+776,345,8,84,Heart rate normal
+777,852,15,0,Pregnancy test negative
+778,479,3,0.27564077,X-ray exposure low
+779,628,14,898,HIV viral load high
+780,456,4,10,CT scan dose high
+781,123,7,5,Biopsy suggests benign tissue
+782,282,13,1,Covid-19 test positive
+783,312,11,90,Fasting glucose normal
+784,298,5,4.958469698,MRI shows larger lesion
+785,928,9,1.649253156,Normal thyroid function
+786,824,12,102,Systolic pressure normal
+787,810,1,16.42468282,Hemoglobin normal
+788,44,6,2.616741882,Ultrasound reveals larger anomaly
+789,104,2,1.02495605,Urine is concentrated
+790,24,10,49,ALT high
+791,139,5,1.725405823,MRI shows small lesion
+792,238,4,3,CT scan dose low
+793,60,9,3.393197014,Possible hypothyroidism
+794,318,1,17.17152348,Hemoglobin slightly high
+795,871,3,0.140058709,X-ray exposure low
+796,186,13,1,Covid-19 test positive
+797,103,11,71,Fasting glucose low
+798,398,10,55,ALT high
+799,848,6,4.608590059,Ultrasound reveals larger anomaly
+800,93,2,1.008396617,Urine is dilute
+801,582,12,116,Systolic pressure high
+802,790,14,993,HIV viral load high
+803,676,15,0,Pregnancy test negative
+804,102,7,25,Biopsy suggests benign tissue
+805,668,8,64,Heart rate low
+806,957,4,1,CT scan dose low
+807,456,3,0.420240463,X-ray exposure normal
+808,960,14,438,HIV viral load moderate
+809,155,2,1.007059684,Urine is dilute
+810,995,9,3.207267189,Possible hypothyroidism
+811,143,5,1.202175973,MRI shows small lesion
+812,565,4,10,CT scan dose high
+813,682,8,95,Heart rate high
+814,195,11,93,Fasting glucose high
+815,724,1,13.97420715,Hemoglobin slightly low
+816,114,15,0,Pregnancy test negative
+817,368,13,0,Covid-19 test negative
+818,645,10,20,ALT normal
+819,887,6,1.946011561,Ultrasound reveals small anomaly
+820,20,7,45,Biopsy result inconclusive
+821,970,12,100,Systolic pressure normal
+822,672,15,1,Pregnancy test positive
+823,391,4,7,CT scan dose high
+824,667,10,21,ALT normal
+825,353,14,156,HIV viral load moderate
+826,556,7,64,Biopsy result inconclusive
+827,590,13,1,Covid-19 test positive
+828,806,6,2.572652919,Ultrasound reveals larger anomaly
+829,420,5,3.397015038,MRI shows larger lesion
+830,922,8,68,Heart rate low
+831,336,3,0.376242951,X-ray exposure normal
+832,455,9,0.617298715,Possible hyperthyroidism
+833,257,2,1.022697574,Urine is concentrated
+834,550,12,107,Systolic pressure normal
+835,119,11,96,Fasting glucose high
+836,138,1,17.19981598,Hemoglobin slightly high
+837,821,4,7,CT scan dose high
+838,216,10,15,ALT low
+839,181,7,60,Biopsy result inconclusive
+840,335,1,16.22775366,Hemoglobin normal
+841,329,15,0,Pregnancy test negative
+842,824,3,0.323771323,X-ray exposure normal
+843,280,8,69,Heart rate low
+844,733,13,0,Covid-19 test negative
+845,403,6,2.268196518,Ultrasound reveals small anomaly
+846,647,5,2.095690594,MRI shows small lesion
+847,875,11,71,Fasting glucose low
+848,169,12,119,Systolic pressure high
+849,793,4,8,CT scan dose high
+850,205,2,1.015194555,Urine is normal
+851,640,9,3.280606912,Possible hypothyroidism
+852,2,14,394,HIV viral load moderate
+853,758,13,0,Covid-19 test negative
+854,72,15,1,Pregnancy test positive
+855,917,1,13.52840831,Hemoglobin slightly low
+856,226,14,999,HIV viral load high
+857,267,5,2.667914554,MRI shows larger lesion
+858,750,10,8,ALT low
+859,410,6,3.059929459,Ultrasound reveals larger anomaly
+860,594,2,1.01086054,Urine is dilute
+861,213,7,17,Biopsy suggests benign tissue
+862,808,4,7,CT scan dose high
+863,744,8,71,Heart rate normal
+864,936,9,2.058856072,Normal thyroid function
+865,298,3,0.421584711,X-ray exposure normal
+866,392,12,101,Systolic pressure normal
+867,401,11,79,Fasting glucose low
+868,708,8,64,Heart rate low
+869,490,9,1.905428821,Normal thyroid function
+870,533,8,82,Heart rate normal
+871,391,14,843,HIV viral load high
+872,165,4,4,CT scan dose low
+873,313,12,111,Systolic pressure high
+874,835,15,1,Pregnancy test positive
+875,939,6,4.97621667,Ultrasound reveals larger anomaly
+876,107,13,1,Covid-19 test positive
+877,353,7,85,Biopsy indicates malignancy
+878,508,1,16.6331273,Hemoglobin slightly high
+879,281,10,23,ALT normal
+880,942,11,73,Fasting glucose low
+881,494,5,1.122221497,MRI shows small lesion
+882,43,3,0.356607183,X-ray exposure normal
+883,161,2,1.017146119,Urine is normal
+884,99,9,2.117652875,Normal thyroid function
+885,455,11,75,Fasting glucose low
+886,79,6,2.897195527,Ultrasound reveals larger anomaly
+887,223,14,505,HIV viral load high
+888,56,5,1.301098082,MRI shows small lesion
+889,973,7,24,Biopsy suggests benign tissue
+890,185,13,0,Covid-19 test negative
+891,943,12,94,Systolic pressure low
+892,513,2,1.010052801,Urine is dilute
+893,59,3,0.242315198,X-ray exposure low
+894,331,10,39,ALT normal
+895,505,15,1,Pregnancy test positive
+896,26,4,8,CT scan dose high
+897,33,1,16.4650062,Hemoglobin normal
+898,833,8,63,Heart rate low
+899,641,11,92,Fasting glucose high
+900,429,14,67,HIV viral load moderate
+901,883,4,4,CT scan dose low
+902,45,1,13.83087207,Hemoglobin slightly low
+903,595,15,0,Pregnancy test negative
+904,340,2,1.008164554,Urine is dilute
+905,213,12,113,Systolic pressure high
+906,372,6,3.7944624,Ultrasound reveals larger anomaly
+907,518,5,4.014488255,MRI shows larger lesion
+908,285,13,1,Covid-19 test positive
+909,817,10,33,ALT normal
+910,333,3,0.298422538,X-ray exposure low
+911,780,8,72,Heart rate normal
+912,212,11,81,Fasting glucose normal
+913,217,7,85,Biopsy indicates malignancy
+914,36,9,2.97817909,Normal thyroid function
+915,226,13,1,Covid-19 test positive
+916,10,5,0.688713386,MRI shows small lesion
+917,505,9,3.20759887,Possible hypothyroidism
+918,640,12,106,Systolic pressure normal
+919,451,14,260,HIV viral load moderate
+920,419,7,12,Biopsy suggests benign tissue
+921,874,1,13.73596134,Hemoglobin slightly low
+922,670,15,1,Pregnancy test positive
+923,604,8,72,Heart rate normal
+924,950,2,1.017519109,Urine is normal
+925,686,10,8,ALT low
+926,600,4,9,CT scan dose high
+927,693,3,0.476369728,X-ray exposure normal
+928,583,11,98,Fasting glucose high
+929,965,6,1.913665993,Ultrasound reveals small anomaly
+930,834,8,86,Heart rate normal
+931,948,3,0.150679237,X-ray exposure low
+932,610,10,42,ALT high
+933,463,14,243,HIV viral load moderate
+934,150,5,3.444972092,MRI shows larger lesion
+935,318,11,97,Fasting glucose high
+936,833,15,0,Pregnancy test negative
+937,99,13,1,Covid-19 test positive
+938,110,2,1.018590432,Urine is normal
+939,807,7,94,Biopsy indicates malignancy
+940,187,6,3.455430432,Ultrasound reveals larger anomaly
+941,976,12,101,Systolic pressure normal
+942,708,9,2.96064341,Normal thyroid function
+943,201,1,14.35948219,Hemoglobin slightly low
+944,640,4,6,CT scan dose high
+945,734,8,62,Heart rate low
+946,467,12,103,Systolic pressure normal
+947,784,10,15,ALT low
+948,57,9,1.656824339,Normal thyroid function
+949,48,8,63,Heart rate low
+950,469,3,0.489227869,X-ray exposure normal
+951,411,13,1,Covid-19 test positive
+952,970,1,14.44293645,Hemoglobin slightly low
+953,857,11,89,Fasting glucose normal
+954,771,5,4.240423857,MRI shows larger lesion
+955,688,7,23,Biopsy suggests benign tissue
+956,945,14,702,HIV viral load high
+957,831,15,1,Pregnancy test positive
+958,940,6,3.09736184,Ultrasound reveals larger anomaly
+959,475,4,5,CT scan dose high
+960,783,2,1.01556127,Urine is normal
+961,340,13,0,Covid-19 test negative
+962,603,2,1.026811549,Urine is concentrated
+963,140,3,0.338298612,X-ray exposure normal
+964,644,8,90,Heart rate normal
+965,994,7,77,Biopsy indicates malignancy
+966,470,11,86,Fasting glucose normal
+967,417,15,0,Pregnancy test negative
+968,997,12,109,Systolic pressure normal
+969,510,13,1,Covid-19 test positive
+970,930,4,7,CT scan dose high
+971,524,6,3.225735334,Ultrasound reveals larger anomaly
+972,137,5,0.571738112,MRI shows small lesion
+973,12,9,3.697455255,Possible hypothyroidism
+974,942,1,14.99841997,Hemoglobin slightly low
+975,165,10,10,ALT low
+976,843,14,231,HIV viral load moderate
+977,841,13,0,Covid-19 test negative
+978,397,5,4.996987765,MRI shows larger lesion
+979,125,11,84,Fasting glucose normal
+980,92,2,1.006354467,Urine is dilute
+981,585,12,94,Systolic pressure low
+982,823,15,1,Pregnancy test positive
+983,8,14,317,HIV viral load moderate
+984,512,8,91,Heart rate high
+985,477,6,0.989672515,Ultrasound reveals small anomaly
+986,665,7,17,Biopsy suggests benign tissue
+987,634,1,17.42635748,Hemoglobin slightly high
+988,988,9,1.853690912,Normal thyroid function
+989,111,4,7,CT scan dose high
+990,903,3,0.325527491,X-ray exposure normal
+991,444,10,28,ALT normal
+992,866,9,0.75959004,Possible hyperthyroidism
+993,673,6,3.30673429,Ultrasound reveals larger anomaly
+994,904,3,0.191198378,X-ray exposure low
+995,207,12,99,Systolic pressure low
+996,158,7,36,Biopsy result inconclusive
+997,705,1,14.32138644,Hemoglobin slightly low
+998,873,4,2,CT scan dose low
+999,502,2,1.026471069,Urine is concentrated
+1000,357,8,62,Heart rate low
